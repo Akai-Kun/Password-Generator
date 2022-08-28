@@ -1,2 +1,2 @@
 # Password-Generator
-**Created using HTML, CSS, JavaScript**
+_Created using **HTML, CSS, JavaScript**_
